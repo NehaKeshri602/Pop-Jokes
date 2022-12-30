@@ -1,2 +1,2 @@
 # Pop-Jokes
-It is a google chrome extension which shows you random jokes everytime.
+It is a Google Chrome Extension which shows random jokes everytime 🤣
